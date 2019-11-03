@@ -12,7 +12,7 @@ from operator import attrgetter
 
 
 mon_data_path = os.path.join(os.path.expanduser('~'),
-                             "D:\dev\crawl-neato-stuff\Monsters\mon-data.h")
+                             "D:\dev\crawl\crawl-ref\source\mon-data.h")
 #old_data_path = os.path.join(os.path.expanduser('~'),
 #                             "crawl/crawl-ref/source/old-mon-data.h")
 # Constants
