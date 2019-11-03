@@ -497,9 +497,10 @@ def main():
         print_attacks()
         print_resists()
         print_ac()
-        # defenses
-        # dragons
         print_speed()
+        print_hd()
+        print_defenses()
+        print_dragons()
 
     fnmap = {
         'ac': print_ac,
